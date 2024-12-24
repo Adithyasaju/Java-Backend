@@ -27,7 +27,7 @@ public class UserControllers {
         map.put("esal","45000");
         return  map;
     }
-
+ 
     //API URL:localhost:8082/create
     //Method:POST
     @PostMapping("/create")
